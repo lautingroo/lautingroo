@@ -3,8 +3,8 @@
 ### Hola Mundo ###
 
 # Nuestro hola mundo en Python
-print("Hola Python")
-print('Hola Python')
+print("Hola gentee")
+print('Hola geente')
 
 # Esto es un comentario
 
