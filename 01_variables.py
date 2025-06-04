@@ -2,7 +2,7 @@
 
 ### Variables ###
 
-my_string_variable = "My String variable"
+my_string_variable = "my st"
 print(my_string_variable)
 
 my_int_variable = 5
@@ -28,8 +28,8 @@ print("Me llamo:", name, surname, ". Mi edad es:",
       age, ". Y mi alias es:", alias)
 
 # Inputs
-name = input('¿Cuál es tu nombre? ')
-age = input('¿Cuántos años tienes? ')
+name = input('¿Cuál es tu name? ')
+age = input('¿Cuántos ages tienes? ')
 print(name)
 print(age)
 
