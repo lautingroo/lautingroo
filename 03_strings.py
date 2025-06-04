@@ -2,8 +2,8 @@
 
 ### Strings ###
 
-my_string = "Mi String"
-my_other_string = 'Mi otro String'
+my_string = "Mio String"
+my_other_string = 'Otro String'
 
 print(len(my_string))
 print(len(my_other_string))
